@@ -6,4 +6,3 @@ Host the application by opening the files in VS Code and using the extension "Li
 
 ## Copyrights
 This is a public project that anyone can use
-Followed instructions and files from https://github.com/ChoudharyNavit22/sit725-2022-t1-prac1
