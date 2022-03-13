@@ -1,7 +1,7 @@
 # sit725-2022-t1-prac1
 A basic template hosting a web application. This aplication has a simple javascrit function that changes text
 
-## Run The Appllication
+## Run The Application
 Host the application by Opening the files in VS Code and using the extension "Live Server" to host the application
 
 ## Copyrights
